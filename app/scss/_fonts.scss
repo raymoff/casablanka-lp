@@ -1,0 +1,11 @@
+@import "_mixins/font-face";
+
+@include font-face("RobotoRegular", "../fonts/RobotoRegular/RobotoRegular");
+@include font-face("RobotoBold", "../fonts/RobotoBold/RobotoBold", bold);
+
+@include font-face("BigJohn", "../fonts/BigJohn/BigJohn");
+@include font-face("SlimJoe", "../fonts/SlimJoe/SlimJoe");
+@include font-face("AmbleLight", "../fonts/AmbleLight/AmbleLight");
+@include font-face("AmbleRegular", "../fonts/AmbleRegular/AmbleRegular");
+@include font-face("AmbleBold", "../fonts/AmbleBold/AmbleBold");
+

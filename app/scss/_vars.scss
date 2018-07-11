@@ -1,0 +1,41 @@
+$default-font: "AmbleRegular", sans-serif;
+$default-font-size: 16px;
+$headline-font: "BigJohn", sans-serif;
+$headline-overlay-font: "AmbleBold", sans-serif;
+$headline-font-size: 30px;
+$under-text-font: "AmbleLight", sans-serif;
+$under-text-fz: 22px;
+
+$section-overlay-color: #212121;
+$text: #222222;
+$orange-primary: #d56e4e;
+$orange-dark: #bb4343;
+$orange-light: #efab4b;
+
+$grey-dark: #333333;
+
+$accent: #279add;
+$white: #fff;
+$black: #000;
+
+$bg: top center / cover no-repeat fixed;
+
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 30px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1140px);
+
+$gutter: $grid-gutter-width;
+
+/*
+1. background-clip
+2. background-color
+3. background-image
+
+4. background-origing
+5. background-positon
+6. background-repeat
+7. background-size
+8. background-attachment
+*/
